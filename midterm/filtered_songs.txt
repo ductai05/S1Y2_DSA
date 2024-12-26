@@ -1,0 +1,327 @@
+Track,Artist,Spotify Streams
+"Stay With Me","Sam Smith",2086460781
+"Like Crazy","Jimin",1165398518
+"Umbrella","Rihanna",1535595924
+"Dance Monkey","Tones And I",3071214106
+"This Is What You Came For","Calvin Harris",1746790923
+"Where Are You Now","Lost Frequencies",1223329465
+"Firestone","Kygo",1106264600
+"Look What You Made Me Do","Taylor Swift",1152346128
+"Cruel Summer","Taylor Swift",2188247133
+"Happy - From Despicable Me 2","Pharrell Williams",1379786786
+"Ride It","Regard",1349427877
+"Thinking out Loud","Ed Sheeran",2502925593
+"Unstoppable","Sia",1285237951
+"One Dance","Drake",3192204066
+"This Girl (Kungs Vs. Cookin' On 3 Burners)","Kungs",1121107262
+"Do I Wanna Know?","Arctic Monkeys",2188592950
+"Last Friday Night (T.G.I.F.)","Katy Perry",1144535829
+"Believer","Imagine Dragons",3006226762
+"Havana (feat. Young Thug)","Camila Cabello",2072182782
+"Hello","Adele",1550553401
+"traitor","Olivia Rodrigo",1564979439
+"Natural","Imagine Dragons",1228556153
+"Con Calma","Daddy Yankee",1353028938
+"MONTERO (Call Me By Your Name)","Lil Nas X",1902241314
+"Stressed Out","Twenty One Pilots",2313532702
+"Let Her Go","Passenger",2252713547
+"Watermelon Sugar","Harry Styles",2708151499
+"STAY (with Justin Bieber)","The Kid LAROI",3107100349
+"I Like Me Better","Lauv",1784308411
+"Shallow","Lady Gaga",2447973078
+"Young Dumb & Broke","Khalid",1527159800
+"Friends","Marshmello",1436709386
+"Waiting For Love","Avicii",1397975653
+"Old Town Road - Remix","Lil Nas X",1527106099
+"Locked Out Of Heaven","Bruno Mars",2004657631
+"Stitches","Shawn Mendes",1907768690
+"Poker Face ( Remix )","Bora Media",1271094976
+"Heartbreak Anniversary","Giveon",1157206056
+"Diamonds","Rihanna",1419912461
+"Sunflower - Spider-Man: Into the Spider-Verse","Post Malone",3358704125
+"The Night We Met","Lord Huron",2097181065
+"Youngblood","5 Seconds of Summer",1790579305
+"I Love You So","The Walters",1410353130
+"In the End","Linkin Park",2045512421
+"Symphony (feat. Zara Larsson)","Clean Bandit",1456894713
+"Always Remember Us This Way","Lady Gaga",1269760706
+"When We Were Young","Adele",1284096603
+"One Kiss (with Dua Lipa)","Calvin Harris",2178606166
+"Ella Baila Sola","Eslabon Armado",1215336974
+"Falling","Harry Styles",1225776509
+"Bohemian Rhapsody","Queen",2486908570
+"Ojitos Lindos","Bad Bunny",1421763497
+"Work from Home (feat. Ty Dolla $ign)","Fifth Harmony",1429277695
+"Boy With Luv (feat. Halsey)","BTS",1165842896
+"Flowers","Miley Cyrus",2031280633
+"Kill Bill","SZA",1873746537
+"Gangsta's Paradise (feat. L.V.)","Coolio",1666699743
+"The Middle","Zedd",1503269550
+"Dangerous Woman","Ariana Grande",1120622892
+"All I Want for Christmas Is You","Mariah Carey",1810649765
+"Quevedo: Bzrp Music Sessions, Vol. 52","Bizarrap",1692951462
+"Bring Me To Life","Evanescence",1129346989
+"I'm Yours","Jason Mraz",1878098512
+"Pompeii","Bastille",1590278292
+"Tusa","KAROL G",1497511486
+"Better Now","Post Malone",1953403531
+"Timber (feat. Ke$ha)","Pitbull",1477150302
+"Location","Khalid",1369299352
+"Wake Me Up","Avicii",2325017580
+"Classic","MKTO",1350428257
+"La Bachata","Manuel Turizo",1721045197
+"Summer","Calvin Harris",1497564072
+"Treat You Better","Shawn Mendes",2164074552
+"That's What I Like","Bruno Mars",2075459887
+"drivers license","Olivia Rodrigo",2184754018
+"Counting Stars","OneRepublic",2466006842
+"Faded","Alan Walker",1943842010
+"More Than You Know","Axwell /\ Ingrosso",1346174222
+"Grenade","Bruno Mars",1313545266
+"See You Again (feat. Charlie Puth)","Wiz Khalifa",1891920348
+"Promiscuous","Nelly Furtado",1194124781
+"Whatever It Takes","Imagine Dragons",1257258072
+"Safe And Sound","Capital Cities",1286089822
+"I Gotta Feeling","Black Eyed Peas",1423655688
+"Shut Up and Dance","WALK THE MOON",1690450389
+"Danza Kuduro","Don Omar",1656974409
+"Love Me Like You Do - From Fifty Shades Of Grey","Ellie Goulding",1532983094
+"Rather Be (feat. Jess Glynne)","Clean Bandit",1327093253
+"Gangsta's Paradise (feat. L.V.)","Coolio",1666699743
+"when the party's over","Billie Eilish",1845938685
+"Let Her Go","Passenger",2252713547
+"It Ain't Me (with Selena Gomez)","Kygo",1430439855
+"Eastside (with Halsey & Khalid)","benny blanco",1736530084
+"Closer","The Chainsmokers",2880536961
+"We Don't Talk Anymore (feat. Selena Gomez)","Charlie Puth",1859886400
+"Attention","Charlie Puth",1800254516
+"Maps","Maroon 5",1676528402
+"Castle on the Hill","Ed Sheeran",1340305216
+"Chandelier","Sia",1729264620
+"Bad Habits","Ed Sheeran",1754311538
+"Gangsta's Paradise","Coolio",1675750095
+"Flowers","Miley Cyrus",2031280633
+"Someone You Loved","Lewis Capaldi",3427498835
+"Numb","Linkin Park",1720830668
+"MIA (feat. Drake)","Bad Bunny",1318254846
+"Heathens","Twenty One Pilots",1777196966
+"death bed (coffee for your head)","Powfu",1656385770
+"Calm Down (with Selena Gomez)","Rema",1391688322
+"Paradise","Coldplay",1291954163
+"When I Was Your Man","Bruno Mars",2106040891
+"Freaks","Surf Curse",1089328286
+"Somebody That I Used To Know","Gotye",1752826514
+"Let It Go","James Bay",1197774081
+"As It Was","Harry Styles",3301814535
+"Break My Heart","Dua Lipa",1198689895
+"High Hopes","Panic! At The Disco",1602076880
+"Happier","Marshmello",2143821605
+"PROVENZA","KAROL G",1185929926
+"Stay (with Alessia Cara)","Zedd",1224136357
+"Ghost","Justin Bieber",1586830204
+"Shape of You","Ed Sheeran",3909458734
+"Head & Heart (feat. MNEK)","Joel Corry",1196521179
+"Stuck with U (with Justin Bieber)","Ariana Grande",1120501187
+"The Scientist","Coldplay",1903413912
+"Story of My Life","One Direction",1275036167
+"Let You Down","NF",1472430869
+"Adore You","Harry Styles",1670164200
+"greedy","Tate McRae",1256101755
+"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)","Pitbull",1164166623
+"Love Yourself","Justin Bieber",2423583406
+"Sure Thing","Miguel",1335928309
+"Ho Hey","The Lumineers",1273869800
+"Heartless","Kanye West",1315577954
+"Light It Up (feat. Nyla & Fuse ODG) [Remix]","Major Lazer",1293191157
+"Let Me Love You","DJ Snake",2147028486
+"Silence","Marshmello",1592440653
+"Happier","Ed Sheeran",1322385342
+"Something Just Like This","The Chainsmokers",2596644721
+"Stereo Hearts (feat. Adam Levine)","Gym Class Heroes",1318596835
+"Poker Face","Lady Gaga",1285242562
+"Can't Hold Us - feat. Ray Dalton","Macklemore & Ryan Lewis",2397109372
+"Style","Taylor Swift",1216966135
+"Dark Red","Steve Lacy",1315024190
+"There's Nothing Holdin' Me Back","Shawn Mendes",2043626431
+"Blank Space","Taylor Swift",1829733410
+"Before You Go","Lewis Capaldi",1920784716
+"Glimpse of Us","Joji",1262308912
+"In the End","Linkin Park",2045512421
+"Mr. Brightside","The Killers",2174022106
+"Take Me to Church","Hozier",2544489950
+"Moves Like Jagger - Studio Recording From The Voice Performance","Maroon 5",1461578587
+"Daddy Issues","The Neighbourhood",1435372572
+"BUTTERFLY EFFECT","Travis Scott",1388024799
+"Californication","Red Hot Chili Peppers",1405353677
+"Breaking Me","Topic",1128612961
+"Drag Me Down","One Direction",1125333823
+"Perfect","Ed Sheeran",2969999682
+"Budapest","George Ezra",1142061871
+"Call Me Maybe","Carly Rae Jepsen",1394048309
+"Shake It Off","Taylor Swift",1409692678
+"Despacito - Remix","Luis Fonsi",1713294983
+"24K Magic","Bruno Mars",1425996809
+"no tears left to cry","Ariana Grande",1331371819
+"Memories","Maroon 5",2011072164
+"Blinding Lights","The Weeknd",4281468720
+"All of Me","John Legend",2382407025
+"Viva La Vida","Coldplay",2102223775
+"I Feel It Coming","The Weeknd",1749088490
+"Cold Heart - PNAU Remix","Elton John",2011121774
+"Seven Nation Army","The White Stripes",1657866786
+"A Thousand Years","Christina Perri",1654956613
+"Sorry","Justin Bieber",2089476497
+"Sweet but Psycho","Ava Max",1668741024
+"Daylight","David Kushner",1126820069
+"bad guy","Billie Eilish",2516804300
+"changes","XXXTENTACION",1366479990
+"august","Taylor Swift",1101296591
+"Sex on Fire","Kings of Leon",1427050913
+"Cheap Thrills","Sia",1779046979
+"Dancing With A Stranger (with Normani)","Sam Smith",1349115675
+"Let Me Down Slowly","Alec Benjamin",1709991997
+"Don't","Bryson Tiller",1281704427
+"cardigan","Taylor Swift",1307283069
+"24K Magic","Bruno Mars",1425996809
+"2002","Anne-Marie",1531490541
+"Best Part (feat. H.E.R.)","Daniel Caesar",1362614026
+"good 4 u","Olivia Rodrigo",2167768056
+"Enemy (with JID) - from the series Arcane League of Legends","Imagine Dragons",1502382072
+"Leave The Door Open","Bruno Mars",1312168384
+"Take Me to Church","Hozier",2544489950
+"Dandelions","Ruth B.",1561518107
+"What Makes You Beautiful","One Direction",1265397717
+"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)","Rudimental",1124147912
+"All of Me - Radio Edit","John Legend",2379787239
+"505","Arctic Monkeys",1660504577
+"CAN'T STOP THE FEELING! (Original Song From Dreamworks Animation's Trolls)","Justin Timberlake",1733302434
+"Body","Loud Luxury",1187784950
+"Paint It, Black","The Rolling Stones",1196773729
+"Beautiful People (feat. Khalid)","Ed Sheeran",1394345347
+"La Curiosidad","Jay Wheeler",1099019265
+"Intentions (feat. Quavo)","Justin Bieber",1177960398
+"We Found Love","Rihanna",1655539775
+"golden hour","JVKE",1126986320
+"Outside (feat. Ellie Goulding)","Calvin Harris",1128783268
+"Wolves","Selena Gomez",1358424406
+"China","Anuel AA",1178076574
+"Scars To Your Beautiful","Alessia Cara",1422563654
+"Don't Start Now","Dua Lipa",2607121959
+"Feel It Still","Portugal. The Man",1303452422
+"Flowers","Miley Cyrus",2010422639
+"Bruises","Lewis Capaldi",1135588382
+"Roar","Katy Perry",1156191242
+"Bones","Imagine Dragons",1227475431
+"TiK ToK","Kesha",1204914998
+"The Nights","Avicii",1780761618
+"Easy On Me","Adele",1720918065
+"Wake Me Up (Remix)","Nick White",2300429829
+"Royals","Lorde",1232502989
+"Heather","Conan Gray",1675083208
+"Despacito","Luis Fonsi",1747093405
+"What Do You Mean?","Justin Bieber",1599742798
+"Unholy (feat. Kim Petras)","Sam Smith",1556275789
+"Feel Good Inc.","Gorillaz",1407382497
+"In My Mind","Dynoro",1432473324
+"Someone Like You","Adele",1925879064
+"New Rules","Dua Lipa",2098443322
+"Radioactive","Imagine Dragons",1836362703
+"Centuries","Fall Out Boy",1184571362
+"Fast Car","Jonas Blue",1145882592
+"Set Fire to the Rain","Adele",1595514674
+"Lover","Taylor Swift",1413268808
+"Falling","Trevor Daniel",1606023895
+"Bang Bang","Jessie J",1336196012
+"If the World Was Ending - feat. Julia Michaels","JP Saxe",1145402792
+"Demons","Imagine Dragons",2270796677
+"Stand by Me","Ben King",1094052047
+"One Last Time","Ariana Grande",1465918510
+"Seven (feat. Latto) (Clean Ver.)","Jung Kook",1673557134
+"Lose You To Love Me","Selena Gomez",1222228366
+"Ophelia","The Lumineers",1274848626
+"Levitating (feat. DaBaby)","Dua Lipa",2074721986
+"Young And Beautiful","Lana Del Rey",1256488099
+"Sign of the Times","Harry Styles",1532653504
+"Can't Feel My Face","The Weeknd",1747534539
+"Paris","The Chainsmokers",1188567787
+"Butter","BTS",1257974135
+"Romantic Homicide","d4vd",1136504636
+"Just the Way You Are","Bruno Mars",2099862852
+"FourFiveSeconds","Rihanna",1134470968
+"Thunder","Imagine Dragons",2384768901
+"Mi Gente","J Balvin",1478442472
+"Hips Don't Lie (feat. Wyclef Jean)","Shakira",1631152967
+"Heat Waves","Glass Animals",2996181078
+"Cheerleader - Felix Jaehn Remix Radio Edit","OMI",1663491433
+"INDUSTRY BABY (feat. Jack Harlow)","Lil Nas X",2014959725
+"Night Changes","One Direction",1548151634
+"idontwannabeyouanymore","Billie Eilish",1091185920
+"No Lie","Sean Paul",1162659862
+"Paradise - Radio Edit","Coldplay",1287292679
+"7 Years","Lukas Graham",1916203330
+"Hall of Fame (feat. will.i.am)","The Script",1438795892
+"Calm Down Baby","DJ Laxman",1389772733
+"Shivers","Ed Sheeran",1568058093
+"Riptide","Vance Joy",2541833602
+"What Lovers Do (feat. SZA)","Maroon 5",1206495254
+"Dynamite","BTS",1872577908
+"My Universe","Coldplay",1269607301
+"Into You","Ariana Grande",1368497471
+"Galway Girl","Ed Sheeran",1311631709
+"Pumped Up Kicks","Foster The People",1791778314
+"Don't Let Me Down","The Chainsmokers",1888829482
+"Better","Khalid",1355539058
+"Yeah! (feat. Lil Jon & Ludacris)","USHER",1307469137
+"Meant to Be (feat. Florida Georgia Line)","Bebe Rexha",1382191196
+"Love Me Like You Do - From Fifty Shades Of Grey","Ellie Goulding",1532640437
+"Dusk Till Dawn - Radio Edit","ZAYN",1687683940
+"Young, Wild & Free (feat. Bruno Mars)","Snoop Dogg",1431126152
+"Summertime Sadness","Lana Del Rey",1442872605
+"Save Your Tears (with Ariana Grande) (Remix)","The Weeknd",1549317525
+"Circles","Post Malone",2481391466
+"Feel It Still","Portugal. The Man",1303018999
+"It's You","Ali Gatie",1123039235
+"Dark Horse","Katy Perry",1445950326
+"No Me Conoce - Remix","Jhay Cortez",1367265268
+"Do I Wanna Know?","Arctic Monkeys",2188592950
+"Too Good At Goodbyes","Sam Smith",2061017397
+"Photograph","Ed Sheeran",2525355904
+"Arcade","Duncan Laurence",1184536529
+"Smells Like Teen Spirit","Nirvana",2021910364
+"Ride","Twenty One Pilots",1724766252
+"Anti-Hero","Taylor Swift",1563224246
+"Hotline Bling","Drake",1335494972
+"Die For You","The Weeknd",2265551950
+"Party In The U.S.A.","Miley Cyrus",1587114096
+"Stolen Dance","Milky Chance",1460945792
+"Danza Kuduro (feat. Lucenzo)","Don Omar",1655575417
+"In The Name Of Love","Martin Garrix",1452194416
+"Sucker","Jonas Brothers",1411856834
+"Thrift Shop (feat. Wanz)","Macklemore & Ryan Lewis",1226381432
+"Why'd You Only Call Me When You're High?","Arctic Monkeys",1687828519
+"Scared To Be Lonely","Martin Garrix",1254883107
+"As It Was","Harry Styles",3299082422
+"Issues","Julia Michaels",1214862854
+"Sweater Weather","The Neighbourhood",2916412507
+"How Deep Is Your Love","Calvin Harris",1156342373
+"A Sky Full of Stars","Coldplay",1490987063
+"Call Out My Name","The Weeknd",1780889877
+"Kill Bill","SZA",1873746537
+"Just Give Me a Reason","P!nk",1301573727
+"Passionfruit","Drake",1625307365
+"I'm Not The Only One","Sam Smith",1879966374
+"Pink + White","Frank Ocean",1299650856
+"Titanium (feat. Sia)","Sia",1634403761
+"I Ain't Worried","OneRepublic",1607421145
+"Dancing On My Own","Calum Scott",1232373956
+"Me Porto Bonito","Renzo Pianciola",1797039538
+"I Wanna Be Yours","Arctic Monkeys",2185240293
+"Space Song","Beach House",1099069598
+"Kiss Me More (feat. SZA)","Doja Cat",1823871908
+"See You Again (feat. Charlie Puth)","Wiz Khalifa",1891920348
+"Say You Won't Let Go","James Arthur",2830962669
+"Lush Life","Zara Larsson",1429205245
+"Stay","Rihanna",1313274600
+"Mercy","Shawn Mendes",1351515181
+"Animals","Maroon 5",1365755853
+"Pepas","Farruko",1490710634

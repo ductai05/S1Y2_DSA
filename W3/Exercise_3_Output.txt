@@ -1,0 +1,57 @@
+Successful candidates for option 1:
+1. Doe Jane 9.7
+2. Richardson Daniel 9.5
+3. Brown Charlie 9.45
+4. Reed Michael 9.45
+5. Murphy Benjamin 9.4
+Successful candidates for option 2:
+1. Roberts Sophia 9.5
+2. Harris Kate 9.35
+3. Fisher Stella 9.35
+4. Alexander David 9.35
+5. White Frank 9.35
+6. Bailey Mila 9.3
+7. Edwards Ethan 9.2
+8. Baker Lucas 9.05
+9. Stewart Abigail 8.95
+10. Long Grace 8.95
+Successful candidates for option 3:
+1. Black Ian 9.6
+2. Scott Ava 9.6
+3. Howard Logan 9.6
+4. Morris Alexander 9.45
+5. Morgan William 9.45
+6. Ramirez Matthew 9.4
+7. Brooks Owen 9.4
+8. Foster Jack 9.3
+9. Young Olivia 9.25
+10. Walker Mia 9.25
+11. Carter James 9.2
+12. Evans Elijah 9.2
+13. Johnson Bob 8.95
+14. Simmons Luke 8.95
+15. Bell Charlotte 8.9
+Successful candidates for option 4:
+1. Mitchell Amelia 9.55
+2. Doe John 9.55
+3. Griffin Avery 9.25
+4. Cooper Lucy 9.15
+5. Ward Lily 9.1
+6. Gray Julia 9.05
+7. Butler Hazel 9
+8. Adams Emma 9
+9. Taylor Eve 9
+10. Rogers Harper 8.9
+Unsuccessful candidates:
+1. King Liam 8.9
+2. Cook Evelyn 8.9
+3. Phillips Mason 8.85
+4. Hall Noah 8.85
+5. Cox Zoey 8.85
+6. Rivera Henry 8.8
+7. Perez Isabella 8.8
+8. Bryant Ellie 8.8
+9. Collins Mia 8.75
+10. Green Hannah 8.75
+11. Smith Alice 8.75
+12. Clark Leo 8.65
