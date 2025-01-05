@@ -29,6 +29,7 @@ string findPath(vector<path> graph, int sourceVertex, int vertex){
 }
 
 void dijkstra(int** a, int n, int sourceVertex){
+    if (sourceVertex < 0 || sourceVertex >= n) return;
     if (n == 0 || n == 1){
         cout << "Graph has no Vertex. Can't find shortest path.\n";
     } else if (n == 1){
@@ -103,7 +104,12 @@ int main(){
         }
     }
 
-    printMatrix(a, n);
+    // printMatrix(a, n);
     dijkstra(a, n, 0);
+
+    for (int i = 0; i < n; i++) {
+        delete[] a[i];
+    } delete[] a;
+    fclose(fp);
     return 0;
 }
